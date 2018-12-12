@@ -1,7 +1,7 @@
-# Water-Dispenser-using-RFID
+ Water-Dispenser-using-RFID
 Get water using RFID
 I USED SERVO,ARDUINO,WIRES,BUZZER and RFID....
-#Please visit my channel on youtube "BER NA" or Search my name" BERNADETTE BACUDO"
+Please visit my channel on youtube "BER NA" or Search my name" BERNADETTE BACUDO"
 
 
 #include "SPI.h"
